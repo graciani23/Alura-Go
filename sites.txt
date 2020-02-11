@@ -1,5 +1,6 @@
-http://random-status-code.herokuapp.com,
-www.alura.com.br,
-www.caelum.com.br,
-www.globo.com,
-www.linkedin.com
+http://random-status-code.herokuapp.com
+http://www.alura.com.br
+http://www.caelum.com.br
+http://www.globo.com
+http://www.linkedin.com
+http://www.vagas.com.br
