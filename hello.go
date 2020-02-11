@@ -134,12 +134,13 @@ func registraLog(site string, status bool) {
 }
 
 func imprimeLogs() {
+	// exibe um array de bytes
 	arquivo, err := ioutil.ReadFile("log.txt")
 
 	if err != nil {
 
 		fmt.Println(err)
 	}
-
+	// convertendo bytes para string
 	fmt.Println(string(arquivo))
 }
